@@ -1,8 +1,8 @@
 import asyncio
 from typing import Optional, Dict, Any
 import pyaudio
-from ..config.settings import AudioConfig
-from ..logger import logger
+from config.settings import AudioConfig
+from logger import logger
 
 class AudioHandler:
     """オーディオの入出力を管理するクラス"""

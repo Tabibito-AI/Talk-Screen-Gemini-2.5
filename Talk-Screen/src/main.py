@@ -4,10 +4,10 @@ from typing import Optional
 from google import genai
 from google.genai import types
 
-from src.config.settings import config
-from src.logger import logger
-from src.audio.audio_handler import AudioHandler
-from src.screen.screen_capture import ScreenCapture
+from config.settings import config
+from logger import logger
+from audio.audio_handler import AudioHandler
+from screen.screen_capture import ScreenCapture
 
 # Python 3.11以上が必要条件のため、TaskGroupとExceptionGroupは標準で利用可能
 
