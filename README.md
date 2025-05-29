@@ -15,7 +15,7 @@
 
 - Python 3.11以上
 - マイク入力デバイス
-- スピーカー出力デバイス
+- イヤホン(スピーカーは使用しないでください)
 - Gemini API キー（Gemini 2.5 Flash Native Audio Live API対応）
 - 安定したインターネット接続（Live API使用のため）
 
